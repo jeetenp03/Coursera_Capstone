@@ -1,7 +1,7 @@
-#Peer-graded Assignment: Capstone Project The Battle of Neighborhoods
+## Peer-graded Assignment: Capstone Project The Battle of Neighborhoods
 By Jeeten Patel
 
-#Introduction/Business Problem section
+### Introduction/Business Problem section
 
 Target Country: India (Hindi: Bhārat), officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast.
 
